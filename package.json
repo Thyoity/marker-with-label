@@ -1,0 +1,26 @@
+{
+  "name": "marker-with-label",
+  "version": "1.0.0",
+  "description": "Google Maps v3 - Custom markers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thyoity/marker-with-label.git"
+  },
+  "keywords": [
+    "marker",
+    "label",
+    "thyoity",
+    "google",
+    "maps"
+  ],
+  "author": "Thiago Yoithi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thyoity/marker-with-label/issues"
+  },
+  "homepage": "https://github.com/thyoity/marker-with-label#readme"
+}
